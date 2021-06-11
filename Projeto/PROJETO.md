@@ -8,7 +8,7 @@ Precisamos criar uma solução de um carrinho de compras.
 
 - Receber via terminal as entradas de `id` e `quantidade` dos produtos a serem adquiridos.
 
-- Perguntar se a cliente possue cupom de desconto. Caso a cliente digite 10, significa que terá 10% de desconto.
+(3,54)- Perguntar se a cliente possue cupom de desconto. Caso a cliente digite 10, significa que terá 10% de desconto.
 
 - Calcular o valor do subtotal (sem considerar o desconto)
 

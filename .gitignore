@@ -2,4 +2,7 @@ logs
 *.log
 .npm
 .vscode
-node_modules/
+node_modules
+Revisao
+Img
+package-lock.json
